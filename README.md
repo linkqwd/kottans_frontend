@@ -12,3 +12,10 @@
 - Not much new information about command line, mostly because I've already used to it, but there were couple minor useful things to me such as globbing.
 
 	[Link for the screenshot](/task_1/Command_line_finished.png)
+
+2. Configuring Linux Web Servers
+-	It was useful to refresh knowledge about linux filesystem, ownerships, $path variable and how SSH works.
+- Some tips about security and firewall were helpful, which I will use in future.
+
+	[Link for the screenshot](/task_1/Linux_Web_Servers_finished.png)
+ 

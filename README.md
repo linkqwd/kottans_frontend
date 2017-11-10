@@ -19,3 +19,8 @@
 
 	[Link for the screenshot](/task_1/Linux_Web_Servers_finished.png)
  
+ 3. Networking for Web Developers
+- I learned more about how networks work, internet addresses, network protocols and ports, it was fun to mess with "netcat" application and make requests manually, then it became even more fun to watch how queries go and study them through tcpdump application.
+ - Interesting course, but seems more interesting than useful. I still don't really understand how to apply some information in real tasks, some information was too theoretical.
+
+ [Link for the screenshot](/task_1/Networking_finished.png)

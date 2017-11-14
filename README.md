@@ -37,8 +37,8 @@
 
 ### Task 2
 #### 1. What is Version Control
-- I studied many cool features about working with local repository, for example some flags  for log command (--oneline is really handy) and other approaches which helps track changes in repository and undo some of them.
-- I was surprised with backup trick, when backup just goes as branch and then can be easily recovered. Think I will use it in future.
+- I studied many cool features about working with local repository, for example some flags for log command (--oneline is really handy) and other approaches which help to track changes in repository and undo some of them.
+- I was surprised with backup trick, when backup just goes as branch from HEAD and then can be easily recovered if something goes wrong with un-doing commits or even rebasing. Think I will use it in future.
 
 	[Link to the screenshot](/task_2/Version_Control_finished.png)
 
@@ -48,3 +48,12 @@
 - I surely won't rebase those commits which are already commited (pushed) into remote repository.
 
 	[Link to the screenshot](/task_2/GitHub_Collaboration_finished.png)
+
+### Task 3
+#### Intro to HTML & CSS
+- Pretty basic course, I refreshed my knowledge about working with fonts and Chrome dev tools.
+- Picked up couple little things from extra materials, for example github pages.
+
+	[Link to the screenshot](/task_3/Intro_html_css_finished.png)
+
+----------

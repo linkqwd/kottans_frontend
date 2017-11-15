@@ -38,7 +38,7 @@
 ### Task 2
 #### 1. What is Version Control
 - I studied many cool features about working with local repository, for example some flags for log command (--oneline is really handy) and other approaches which help to track changes in repository and undo some of them.
-- I was surprised with backup trick, when backup just goes as branch from HEAD and then can be easily recovered if something goes wrong with un-doing commits or even rebasing. Think I will use it in future.
+- I was surprised by backup trick, when backup just goes as branch from HEAD and then can be easily recovered if something goes wrong with un-doing commits or even rebasing. Think I will use it in future.
 
 	[Link to the screenshot](/task_2/Version_Control_finished.png)
 
@@ -49,11 +49,23 @@
 
 	[Link to the screenshot](/task_2/GitHub_Collaboration_finished.png)
 
+----------
+
 ### Task 3
 #### Intro to HTML & CSS
 - Pretty basic course, I refreshed my knowledge about working with fonts and Chrome dev tools.
 - Picked up couple little things from extra materials, for example github pages.
 
 	[Link to the screenshot](/task_3/Intro_html_css_finished.png)
+
+----------
+
+### Task 4
+#### Responsive Web Design Fundamentals
+- I learned useful approaches about making responsive markup, flex boxes and media queries were quite intresting, also it was useful to practice making responsive page.
+- I was surprised by calculating CSS pixels, that there is difference between CSS and hardware pixels.
+- Extra materials were great, especially I liked "Flexbox Froggy", it helped me to remember how flex-boxes work.
+
+	[Link to the screenshot](/task_4/Responsive_Web_Design_finished.png)
 
 ----------

@@ -69,3 +69,13 @@
 	[Link to the screenshot](/task_4/Responsive_Web_Design_finished.png)
 
 ----------
+
+### Task 5
+#### Intro to JS
+- I've studied Js before, but just a little bit, so some parts of the course were new to me. There were things that I didn't know, mostly about methods which can be applied to arrays, for example forEach() or map(), and I also learned other basic but "less common" things (as i would call it) about objects and functions, that there is "scope" and it is possible to write your own methods for objects, etc...
+- I was surprised by "equality" in Js, that "true > 0" will return "true". During this course, it seemd to me that "loosely typed language" isnt a good thing.
+- All information from this course will be useful, it's also important to keep practising.
+
+	[Link to the screenshot](/task_5/intro_js_finished.png)
+
+----------

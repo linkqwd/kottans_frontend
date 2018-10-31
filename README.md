@@ -1,11 +1,13 @@
 ## kottans_frontend
 
-### Task 0
-- A lot new information about working with remote repository and merge conflicts.
-- I was surprised by the lesson where I needed to look for a bug in code with "diff" command through console. Never thought that someone would try to find a bug in such way.
-- Hope to use all my knowledges about git on practice, especially about merging branches to remote repository.
+### Task 0 ( 2018 update )
+- I thought I knew git basics, but actually i studied some new concepts how to use git and how it's work. Also refreshed my knowledge from previous year.
+- Lesson where was needed to search for a bug in code with "diff" command via console. Never thought that someone would try to find a bug in such way, though it's pretty convenient.
+- Besides all other commands, git show, credential.helper wincred, git fetch, git diff will be useful for me as well as refreshed knowledge of basics.
 
 	[Link to the screenshot](/task_0/git_finished.png)
+	
+	[Link to notes, Caution bed English (just some reminders for myself)](https://github.com/linkqwd/git_notes_udacity-course)
 
 ----------
 

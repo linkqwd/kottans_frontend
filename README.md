@@ -7,13 +7,21 @@
 
 	[Link to the screenshot](/task_0/git_finished.png)
 	
-	[Link to notes, Caution bed English (just some reminders for myself)](https://github.com/linkqwd/git_notes_udacity-course)
+	[Link to Git reminders](https://github.com/linkqwd/git_notes_udacity-course)
 
 ----------
 
 ### Task 1
+#### 0. Learn the Command Line
+- Mostly, I have already known concepts from this course, but some of them I could barely remembered and course helped me to refresh and structurise my knowledge. Even though I was familiar with it I was surprised by things i could do with  environmental variables.
+
+	[Link to the screenshot](/task_1/learnCl.png)
+
+	[Link to linux reminders](https://github.com/linkqwd/linux-reminders)
+
+
 #### 1. Linux Command Line Basics
-- Not much new information about command line, mostly because I've already used to it, but there were couple minor useful things to me such as globbing.
+- Not much new information about command line, but there were couple useful things such as globbing.
 
 	[Link to the screenshot](/task_1/Command_line_finished.png)
 
@@ -24,14 +32,14 @@
 	[Link to the screenshot](/task_1/Linux_Web_Servers_finished.png)
  
  #### 3. Networking for Web Developers
-- I learned more about how networks work, internet addresses, network protocols and ports, it was fun to mess with "netcat" application and make requests manually, then it became even more fun to watch how queries go and study them through tcpdump application.
-- Interesting course, but seems more interesting than useful. I still don't really understand how to apply some information from the course in real tasks, I would say it was too theoretical.
+- I learned more about how networks work, internet addresses, network protocols and ports, it was fun to mess with "netcat" utility and make requests manually, then it became even more fun to watch how queries proceed and study them through tcpdump utility.
+- Interesting course, but seems more interesting than useful. I still don't really understand how to apply  information from ершы course in real tasks, I would say it was too theoretical.
 
 	[Link to the screenshot](/task_1/Networking_finished.png)
 
  #### Articles
 - Nice conclusion articles after networking course, it seems important to know about URLs, request verbs and status codes.
-- Request headers looks very intricate, hope I will get used to them, also in the first article was information how to use Http in Web frameworks and libraries, looking forward to try these too.
+- Request headers looks very intricate, hope I will get used to them, also in the first article was information how to live with Http porocol in Web frameworks and libraries, looking forward to try these too.
 - Google developer tool to view Http traffic is rock!
 - Second article about connections, authentication and caching was interesting too, i think i will find it useful in future. 
 

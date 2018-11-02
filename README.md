@@ -1,6 +1,6 @@
-## kottans_frontend
+## kottans_frontend ( 2018 update )
 
-### Task 0 ( 2018 update )
+### Task 0
 - I thought I knew git basics, but actually i studied some new concepts how to use git and how it's work. Also refreshed my knowledge from previous year.
 - Lesson where was needed to search for a bug in code with "diff" command via console. Never thought that someone would try to find a bug in such way, though it's pretty convenient.
 - Besides all other commands, git show, credential.helper wincred, git fetch, git diff will be useful for me as well as refreshed knowledge of basics.
@@ -47,10 +47,12 @@
 
 ### Task 2
 #### 1. What is Version Control
-- I studied many cool features about working with local repository, for example some flags for log command (--oneline is really handy) and other approaches which help to track changes in repository and undo some of them.
-- I was surprised by backup trick, when backup just goes as branch from HEAD and then can be easily recovered if something goes wrong with un-doing commits or even rebasing. Think I will use it in future.
+- Flags for git log command (--oneline, -p, -stat were pretty handy), Relative Commit References & Ancestry References and other approaches which help to track changes in repository and undo some of them.
+- I was surprised by backup trick and how simple it is, when backup just goes as branch from HEAD and then can be easily recovered if something goes wrong with reseting commits or even rebasing. Think I will use it in future.
 
 	[Link to the screenshot](/task_2/Version_Control_finished.png)
+	
+	[Link to Git reminders](https://github.com/linkqwd/git_notes_udacity-course)
 
 #### 2. GitHub & Collaboration
 - In this course i mostly repeated knowledge which was studied before in task_0, but this course is more complete and cover more details, also i understood how to manually add remotes and fetch new data from them. 
@@ -58,6 +60,8 @@
 - I surely won't rebase those commits which are already commited (pushed) into remote repository.
 
 	[Link to the screenshot](/task_2/GitHub_Collaboration_finished.png)
+	
+	[Link to Git reminders](https://github.com/linkqwd/git_notes_udacity-course)
 
 ----------
 

@@ -64,7 +64,7 @@
 
 ----------
 
-### Task3: Intro to HTML and CSS
+### Task 3: Intro to HTML and CSS
 - Refreshed my knowledge about basics and chrome dev tools.
 - Picked up couple useful html tags about forms, tables and general styling.
 
@@ -78,11 +78,12 @@
 
 ### Task 4: Responsive Web Design
 #### Responsive Web Design Fundamentals
-- I learned useful approaches about making responsive markup, flex boxes and media queries were quite intresting, also it was useful to practice making responsive page.
-- I was surprised by calculating CSS pixels, that there is difference between CSS and hardware pixels.
-- Extra materials were great, especially I liked "Flexbox Froggy", it helped me to remember how flex-boxes work.
+- Just repeated concepts of responsive layout.
+- Calculating difference between CSS pixels and Hardware pixels still surprises.
 
-	[Link to the screenshot](/task_git_collaboration/Responsive_Web_Design_finished.png)
+	[Link to the screenshot Responsive-WD](/task_responsive_web_design/Responsive_Web_Design_finished.png)
+
+	[Link to the screenshot Flexbox-froggy](/task_responsive_web_design/flexbox_froggy.png)
 
 ----------
 

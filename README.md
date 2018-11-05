@@ -89,10 +89,17 @@
 
 ### Task 5: JS Basics
 #### Intro to JS
-- I've studied Js before, but just a little bit, so some parts of the course were new to me. There were things that I didn't know, mostly about methods which can be applied to arrays, for example forEach() or map(), and I also learned other basic but "less common" things (as i would call it) about objects and functions, that there is "scope" and it is possible to write your own methods for objects, etc...
-- I was surprised by "equality" in Js, that "true > 0" will return "true". During this course, it seemd to me that "loosely typed language" isnt a good thing.
+- I've studied js before for a while but there were some things that were useful to refresh in memory.
+- Type conversion in javaScript still surprises me.
 - All information from this course will be useful, it's also important to keep practising.
 
-	[Link to the screenshot](/task_git_collaboration/intro_js_finished.png)
+	[Link to the screenshot](/task_js_basics/intro-js_finished.png)
 
-----------
+	[Link to the js reminders](https://github.com/linkqwd/js-reminders)
+
+#### freecodecamp Algorithm Scripting Challenges
+- Interesting challenges, some of them took me a long time to think over. The most complicated for me was *Wherefore art thou* but I was glad that I solved this piece of ~~shit~~ code.
+
+	[Link to the screenshot](/task_js_basics/freecodecamp.png)
+
+	[Link to the js reminders](https://github.com/linkqwd/js-reminders)

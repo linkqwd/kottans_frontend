@@ -102,4 +102,22 @@
 
 	[Link to the screenshot](/task_js_basics/freecodecamp.png)
 
+----------
+
+### Task: 6: DOM
+#### JavaScript and the DOM 
+- There was just enough information about basics of DOM manipulation, so course stayed simple and helpful to get glance on basics and grasp it effectively. I've heeard before about things whiche were explained in this course, but this time i finally structurize my knowledge so I can use those tools now.
+- I was surprised by optimization tricks and how to use .setTimeout to make a code work faster. Definitely I will try out it in future.
+- All the methods from this course will be used in future. There is no way to avoid that, i guess.
+	
+	[Link to the screenshot](/task_js_dom/js_dom-finished.png)
+
 	[Link to the js reminders](https://github.com/linkqwd/js-reminders)
+
+#### freecodecamp Algorithm Scripting Challenges
+- Still challenging but went easier than previous ten.
+- Most interesting were: the one in which I had to write methods for bob object, the one about converting binary numbers into words, and the one about closures (double function invoke)
+
+	[Link to the screenshot](/task_js_dom/code_camp-finished.png)
+
+#### Practical task in process...

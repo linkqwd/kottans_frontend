@@ -120,4 +120,9 @@
 
 	[Link to the screenshot](/task_js_dom/code_camp-finished.png)
 
-#### Practical task in process...
+#### Practical task is waiting for approval
+- It was fun and appropriate to use in practice those approaches that I've learned before. I struggled a lot with picking the way how to organize data in json file and retrieve it from, so I did it as simple as possible, I surely would like to study it in future. Also I felt lack of knowledge about structurizing my code, in future I want to write more scalable code.
+
+	[Demo:](/https://linkqwd.github.io/cake-menu/)
+
+	[Code](https://github.com/linkqwd/cake-menu/blob/master/js/main.js)

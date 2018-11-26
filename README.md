@@ -104,7 +104,7 @@
 
 ----------
 
-### Task: 6: DOM
+### Task 6: DOM
 #### JavaScript and the DOM 
 - There was just enough information about basics of DOM manipulation, so course stayed simple and helpful to get glance on basics and grasp it effectively. I've heeard before about things whiche were explained in this course, but this time i finally structurize my knowledge so I can use those tools now.
 - I was surprised by optimization tricks and how to use .setTimeout to make a code work faster. Definitely I will try out it in future.
@@ -120,9 +120,40 @@
 
 	[Link to the screenshot](/task_js_dom/code_camp-finished.png)
 
-#### Practical task is waiting for approval
+#### Practical task is waiting for approval...
 - It was fun and appropriate to use in practice those approaches that I've learned before. I struggled a lot with picking the way how to organize data in json file and retrieve it from, so I did it as simple as possible, I surely would like to study it in future. Also I felt lack of knowledge about structurizing my code, in future I want to write more scalable code.
 
 	[Demo](https://linkqwd.github.io/cake-menu/)
 
 	[Code](https://github.com/linkqwd/cake-menu/blob/master/js/main.js)
+
+----------
+ 
+### Task 7: Building a Tiny JS World (pre-OOP) 
+#### Reviewed and approved by @yevhenorlov 
+- This task make me think over important things which before I didn't care about. Such as DRY or inheritance. And in a way about other OOP concepts in general.
+
+	[Demo](https://linkqwd.github.io/a-tiny-JS-world/)
+
+	[Code base](https://github.com/linkqwd/a-tiny-JS-world/blob/gh-pages/index.js)
+
+----------
+
+### Task 8: Object oriented JS
+#### Frogger (Udacity course) - Reviewed and approved by @OleksiyRudenko
+- At the beginning I was terrifed of making an attempt to build game from provided engine coz it was hard for me to understand that code. As time passed I started to understand how things work a bit better and eventually this task become fun and I wanted to implement so many stuff... 
+In the end it was usefull and fun practice which summarized all previous information.
+- Looking forward to study extra materials so I could use OOP concepts in future properly.
+
+	[Code base](https://github.com/linkqwd/frogger-arcade-game/tree/master/js)
+
+	[Demo](https://linkqwd.github.io/frogger-arcade-game/)
+
+	[Link to the screenshot](/task_Object_oriented_JS/task_Object_oriented_JS-finished.png)
+
+#### CodeWars
+- Great place to practice and discover new methods or best practices.
+
+	[Profile](https://www.codewars.com/users/linkqwd)
+
+----------

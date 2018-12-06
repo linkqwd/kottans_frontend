@@ -157,3 +157,17 @@ In the end it was usefull and fun practice which summarized all previous informa
 	[Profile](https://www.codewars.com/users/linkqwd)
 
 ----------
+
+### Task 9: OOP exercise
+#### Tiny js world #2 - Reviewed and approved by @OleksiyRudenko
+- I've build couple worlds, faced some problems, some of them then were solved, but others gave me understanding of what can go wrong. Also I've build basic picture of OOP concepts for myself. I would say this task is well designed and giving ehh.. fuck this javascript with fifteen million different ways of doing the very same thing, fuck this this keyword and fuck it's auto-coercion and all that stuff, anyway no one reads this usless reflections. So why javascript can't be an adequate language? Probably because of many different browsers with its own engines. I think we should start a war and wipe out almost all browsers and put in jail it's developers so there would left only one browsser and maybe then we would be able to design our programms pecefully without butthurt. So where I stopped? well yes, this task gave me basic feeling about inheritance and "objects relationships" it was cool that I had to repeat this task so I was able to refresh my knowledge after some time and find new approaches by my own or with mentors help.
+- I think in future this task will also be useful to train new approaches in program design or consolidate knowledge on practise - theory without practice is not that useful.
+
+	[ES5 inheritance code base](https://github.com/linkqwd/a-tiny-JS-world/blob/gh-pages/ES5_inheritance.js)
+
+	[ES6 inheritance code base](https://github.com/linkqwd/a-tiny-JS-world/blob/gh-pages/ES6_inheritance.js)
+
+	[ES6 composition code base](https://github.com/linkqwd/a-tiny-JS-world/blob/gh-pages/ES6_composition.js)
+
+----------
+

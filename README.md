@@ -120,7 +120,7 @@
 
 	[Link to the screenshot](/task_js_dom/code_camp-finished.png)
 
-#### Practical task is waiting for approval...
+#### Practical task Js-DOM - Reviewed and approved by @IgorKurkov, @AMashoshyna
 - It was fun and appropriate to use in practice those approaches that I've learned before. I struggled a lot with picking the way how to organize data in json file and retrieve it from, so I did it as simple as possible, I surely would like to study it in future. Also I felt lack of knowledge about structurizing my code, in future I want to write more scalable code.
 
 	[Demo](https://linkqwd.github.io/cake-menu/)
@@ -129,8 +129,7 @@
 
 ----------
  
-### Task 7: Building a Tiny JS World (pre-OOP) 
-#### Reviewed and approved by @yevhenorlov 
+### Task 7: Building a Tiny JS World (pre-OOP) - Reviewed and approved by @yevhenorlov 
 - This task make me think over important things which before I didn't care about. Such as DRY or inheritance. And in a way about other OOP concepts in general.
 
 	[Demo](https://linkqwd.github.io/a-tiny-JS-world/)
@@ -171,3 +170,20 @@ In the end it was usefull and fun practice which summarized all previous informa
 
 ----------
 
+### Task 11: Memory pair game - Reviewed and approved by @zonzujiro
+- Fun and helpful to consolidate knowledge.
+
+	[Demo](https://linkqwd.github.io/piarGame/)
+
+	[Code base](https://github.com/linkqwd/piarGame/blob/master/js/main.js)
+
+----------
+
+### Task 13: Friends App - is waiting for reviewing and approving by @IgorKurkov
+- This was the hardest task. I had no idea how to build such applications in terms of design(architecture). After all, haven't found any decent solution for this task. Hope to overcome it in future.
+
+	[Demo](https://linkqwd.github.io/friendApp/)
+
+	[Code base](https://github.com/linkqwd/friendApp/blob/master/js/main.js)
+
+----------

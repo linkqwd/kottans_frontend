@@ -179,11 +179,9 @@ In the end it was usefull and fun practice which summarized all previous informa
 
 ----------
 
-### Task 13: Friends App - is waiting for reviewing and approving by @IgorKurkov
+### Task 13: Friends App - Reviewed and approved by @IgorKurkov
 - This was the hardest task. I had no idea how to build such applications in terms of design(architecture). After all, haven't found any decent solution for this task. Hope to overcome it in future.
 
 	[Demo](https://linkqwd.github.io/friendApp/)
 
 	[Code base](https://github.com/linkqwd/friendApp/blob/master/js/main.js)
-
-----------

@@ -1,3 +1,5 @@
+[![Kottans-Student-OOP](https://img.shields.io/badge/%3D(%5E.%5E)%3D-extends%20Developer-blue.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+
 ## kottans_frontend (2018 update)
 
 ### Task 0: Git and GitHub
